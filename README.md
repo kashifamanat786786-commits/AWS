@@ -1,2 +1,2 @@
 # AWS
-i am student. github using for devops.
+i am devops student. github using for devops.
